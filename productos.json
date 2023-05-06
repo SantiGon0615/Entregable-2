@@ -1,0 +1,27 @@
+[
+    {
+      "nombre": "Mate",
+      "imagen": "https://tradicionesargentinas.com/wp-content/uploads/2021/10/4220-scaled.jpg",
+      "precio": "$3000"
+    },
+    {
+      "nombre": "Bombilla",
+      "imagen": "https://matesibarra.com/wp-content/uploads/2023/01/bombilla-campeones-del-mundo-1.jpeg",
+      "precio": "$1500"
+    },
+    {
+      "nombre": "Termo Stanley",
+      "imagen": "https://dulcessabores.com.ar/wp-content/uploads/2022/04/D_NQ_NP_2X_742931-MLA49425234820_032022-F.webp",
+      "precio": "$17000"
+    },
+    {
+      "nombre": "Porta Termo",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_901478-MLC49797485007_042022-V.jpg",
+      "precio": "$2000"
+    },
+    {
+      "nombre": "Termo Lumilagro",
+      "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/970/200/products/termo-luminox-acero-inoxidabe-1-litro-11-4e66e52c617a0c63b216232850794595-640-0.jpeg",
+      "precio": "$2000"
+    }
+  ]
